@@ -1,2 +1,7 @@
 # MemeStealer
-Steal memes from reddit and add the watermark for your meme page
+Steal (potentially unfunny) memes from reddit for your meme page and also add the watermark to them
+
+
+https://www.reddit.com/dev/api/ 
+
+register stuff here
